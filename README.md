@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" height="400"   src="https://media.licdn.com/dms/image/D4D12AQE6-AIm2o8Zfw/article-cover_image-shrink_720_1280/0/1708753498052?e=2147483647&v=beta&t=WGF5cX14RQJ3oFZiPcqfzpyzBMw8fRcShHE2Co6jUZ8">
+<img align="center" alt="Coding" width="100%" height="400"   src="https://www.shehala.com/public/frontend/images/webdevelopment.jpg">
 
 <h1 align="center">Hi 👋, I'm Radz Santillan</h1>
 <h3 align="center">A passionate Full Stack developer from Philippines</h3>

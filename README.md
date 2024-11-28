@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React js , React Native, Python**
 
-- 👨‍💻 All of my projects are available at [https://radzsantillan-portfolio.onrender.com)
+- 👨‍💻 All of my projects are available at https://radzsantillan-portfolio.onrender.com
 
 - 📫 How to reach me **radzsantillan01@gmail.com**
 

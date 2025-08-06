@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at https://radzsantillan.vercel.app/
 
-- 📫 How to reach me **radzsantillan0@gmail.com**
+- 📫 How to reach me **radzsantillan01@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
